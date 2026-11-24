@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/souravsahapartho/vantyr/main/apps/web/public/brand/vantyr-banner.png" alt="Vantyr: software that leads the way" width="100%">
+<img src="https://raw.githubusercontent.com/souravsahapartho/vantyr/main/apps/web/public/brand/vantyr-banner.png" alt="Vantyr: software that leads the way" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://vantyr-seven.vercel.app"><b>Website</b></a> &nbsp;·&nbsp;
-  <a href="mailto:vantyr@sourav.com.bd"><b>vantyr@sourav.com.bd</b></a> &nbsp;·&nbsp;
-  <a href="https://github.com/souravsahapartho"><b>Founder</b></a>
+<a href="https://vantyr.sourav.com.bd"><b>Website</b></a> &nbsp;·&nbsp;
+<a href="mailto:vantyr@sourav.com.bd"><b>vantyr@sourav.com.bd</b></a> &nbsp;·&nbsp;
+<a href="https://github.com/souravsahapartho"><b>Founder</b></a>
 </p>
 
 ## What we do
@@ -19,7 +19,7 @@
 
 ## Our work
 
-- **[TaxPlan BD](https://github.com/souravsahapartho/TaxPlan-BD)** ([live](https://taxplanbd.vercel.app)): a Bangladesh income tax planning platform with a calculator, tax-saving guidance and an admin console.
+- **[TaxPlan BD](https://taxplanbd.vercel.app)** (live): a Bangladesh income tax planning platform with a calculator, tax-saving guidance and an admin console.
 - **[Vantyr website](https://github.com/souravsahapartho/vantyr)**: this company's own site, a 3D scroll journey on Next.js with a Django API, a price estimator and a built-in admin.
 
 ## How we work
