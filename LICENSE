@@ -1,0 +1,87 @@
+Vantyr License
+Version 1.0, 2026
+
+Copyright (c) 2026 Vantyr. All rights reserved except as granted below.
+
+This License applies to any software, source code, documentation, and other
+materials (the "Work") that Vantyr ("Licensor") distributes with, or marks as
+being available under, this License.
+
+1. Grant of License
+
+Subject to the conditions in this License, Licensor grants you a worldwide,
+royalty-free, non-exclusive, perpetual license to use, copy, modify, merge,
+publish, distribute, sublicense, and sell copies of the Work, and to permit
+others to do the same, for any purpose, including commercial purposes.
+
+2. Conditions
+
+(a) Notices. You must include the copyright notice above and a copy of this
+License in all copies and substantial portions of the Work, whether in source
+or compiled form, or in the documentation that accompanies it.
+
+(b) Modifications. If you modify the Work, you must make clear in the modified
+files that changes were made, and you may not present the modified version as
+the official version released by Licensor.
+
+(c) Sublicensing. Any sublicense you grant must not give recipients more rights
+than this License gives you, and must not remove or reduce the notices required
+by this section.
+
+3. Trademarks
+
+This License does not grant permission to use the names, logos, or trademarks
+of Vantyr, except as needed to describe the origin of the Work and to
+reproduce the notices required by Section 2.
+
+4. Patents
+
+Licensor grants you a worldwide, royalty-free, non-exclusive license under any
+patent claims Licensor owns or controls that are necessarily infringed by the
+Work as delivered by Licensor, solely to use, copy, modify, and distribute the
+Work. If you start patent litigation against Licensor or any other party
+alleging that the Work infringes a patent, the patent license in this section
+ends on the date you file the claim.
+
+5. Contributions
+
+Unless you state otherwise in writing, any contribution you intentionally
+submit to Licensor for inclusion in the Work is provided under the terms of
+this License, with no additional conditions. You confirm that you have the
+right to submit it.
+
+6. Termination
+
+If you breach this License, your rights under it end automatically. They are
+reinstated if you correct the breach within 30 days of becoming aware of it.
+Persons who received copies from you in compliance with this License keep their
+rights for as long as they remain in compliance.
+
+7. Disclaimer of Warranty
+
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+8. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL LICENSOR OR ITS
+CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION
+WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE WORK.
+
+9. General
+
+If any provision of this License is held unenforceable, the remaining
+provisions stay in effect. This License is governed by the laws of the People's
+Republic of Bangladesh, without regard to its conflict of law rules.
+
+---
+
+How to apply this License to your project
+
+Add a file named LICENSE containing the full text above to the root of your
+repository, then add this line to the top of your README or source files:
+
+    Licensed under the Vantyr License, Version 1.0.
+    Copyright (c) <year> <copyright holder>
