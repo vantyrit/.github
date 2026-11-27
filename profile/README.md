@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vantyrit/.github/main/profile/assets/banner.svg" alt="Vantyr: software that leads the way" width="100%">
+<a href="https://vantyr.sourav.com.bd"><img src="https://raw.githubusercontent.com/vantyrit/.github/main/profile/assets/banner.svg" alt="Vantyr: software that leads the way" width="100%"></a>
 
 <p>
 <a href="https://vantyr.sourav.com.bd"><img src="https://img.shields.io/badge/Visit_Website-FFB02E?style=for-the-badge&logo=googlechrome&logoColor=0B0D12" alt="Visit Website" height="40"></a>
@@ -15,7 +15,7 @@ Vantyr is a small software company in Dhaka. We build websites, custom software,
 
 ## What we do
 
-<img src="https://raw.githubusercontent.com/vantyrit/.github/main/profile/assets/services.svg" alt="Web development, custom software, data and analytics, machine learning" width="100%">
+<a href="https://vantyr.sourav.com.bd/services"><img src="https://raw.githubusercontent.com/vantyrit/.github/main/profile/assets/services.svg" alt="Web development, custom software, data and analytics, machine learning" width="100%"></a>
 
 ## Our work
 
@@ -26,18 +26,18 @@ Vantyr is a small software company in Dhaka. We build websites, custom software,
 
 ## How we work
 
-<img src="https://raw.githubusercontent.com/vantyrit/.github/main/profile/assets/flow.svg" alt="Talk, design, build, ship" width="100%">
+<a href="https://vantyr.sourav.com.bd/process"><img src="https://raw.githubusercontent.com/vantyrit/.github/main/profile/assets/flow.svg" alt="Talk, design, build, ship" width="100%"></a>
 
 Small, shippable steps. You see working software every week, with plain-language updates and no surprises.
 
 ## Our stack
 
 <p>
-<img src="https://img.shields.io/badge/Next.js-0B0D12?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-<img src="https://img.shields.io/badge/TypeScript-0B0D12?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
-<img src="https://img.shields.io/badge/Django-0B0D12?style=for-the-badge&logo=django&logoColor=2EE6C9" alt="Django">
-<img src="https://img.shields.io/badge/Python-0B0D12?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python">
-<img src="https://img.shields.io/badge/Vercel-0B0D12?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+<a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-0B0D12?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"></a>
+<a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-0B0D12?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"></a>
+<a href="https://www.djangoproject.com"><img src="https://img.shields.io/badge/Django-0B0D12?style=for-the-badge&logo=django&logoColor=2EE6C9" alt="Django"></a>
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-0B0D12?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"></a>
+<a href="https://vercel.com"><img src="https://img.shields.io/badge/Vercel-0B0D12?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"></a>
 </p>
 
 ## Say hello
