@@ -2,13 +2,14 @@
 
 <img src="https://raw.githubusercontent.com/vantyrit/.github/main/profile/assets/banner.svg" alt="Vantyr: software that leads the way" width="100%">
 
-<br>
-
-**[Website](https://vantyr.sourav.com.bd)** &nbsp;·&nbsp; **[Start a project](https://vantyr.sourav.com.bd/start-a-project)** &nbsp;·&nbsp; **[vantyr@sourav.com.bd](mailto:vantyr@sourav.com.bd)** &nbsp;·&nbsp; **[Founder](https://github.com/souravsahapartho)**
+<p>
+<a href="https://vantyr.sourav.com.bd"><img src="https://img.shields.io/badge/Visit_Website-FFB02E?style=for-the-badge&logo=googlechrome&logoColor=0B0D12" alt="Visit Website" height="40"></a>
+<a href="https://vantyr.sourav.com.bd/start-a-project"><img src="https://img.shields.io/badge/Start_a_project-2EE6C9?style=for-the-badge&logo=rocket&logoColor=0B0D12" alt="Start a project" height="40"></a>
+<a href="mailto:vantyr@sourav.com.bd"><img src="https://img.shields.io/badge/Email_us-161A24?style=for-the-badge&logo=gmail&logoColor=FFB02E" alt="Email us" height="40"></a>
+<a href="https://github.com/souravsahapartho"><img src="https://img.shields.io/badge/Meet_the_founder-161A24?style=for-the-badge&logo=github&logoColor=2EE6C9" alt="Meet the founder" height="40"></a>
+</p>
 
 </div>
-
-<br>
 
 Vantyr is a small software company in Dhaka. We build websites, custom software, data dashboards and machine learning tools for startups and small businesses that want something that works and that they can keep maintaining.
 
