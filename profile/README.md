@@ -15,12 +15,6 @@ Vantyr is a small software company in Dhaka. We build websites, custom software,
 
 <p align="center"><a href="https://vantyr.sourav.com.bd/services/web-development"><img src="https://raw.githubusercontent.com/vantyrit/.github/main/profile/assets/card-web.svg" alt="Web Development" width="24%"></a><a href="https://vantyr.sourav.com.bd/services/custom-software"><img src="https://raw.githubusercontent.com/vantyrit/.github/main/profile/assets/card-software.svg" alt="Custom Software" width="24%"></a><a href="https://vantyr.sourav.com.bd/services/data-science"><img src="https://raw.githubusercontent.com/vantyrit/.github/main/profile/assets/card-data.svg" alt="Data and Analytics" width="24%"></a><a href="https://vantyr.sourav.com.bd/services/machine-learning"><img src="https://raw.githubusercontent.com/vantyrit/.github/main/profile/assets/card-ml.svg" alt="Machine Learning" width="24%"></a></p>
 
-<p align="center"><a href="https://vantyr.sourav.com.bd/work"><img src="https://raw.githubusercontent.com/vantyrit/.github/main/profile/assets/work.svg" alt="Our work" width="100%"></a></p>
-
-<!--PINNED:START-->
-<p align="center"><sub>Pinned projects will appear here.</sub></p>
-<!--PINNED:END-->
-
 <p align="center"><a href="https://vantyr.sourav.com.bd/process"><img src="https://raw.githubusercontent.com/vantyrit/.github/main/profile/assets/process.svg" alt="How we work" width="100%"></a></p>
 
 <p align="center"><a href="https://vantyr.sourav.com.bd/process"><img src="https://raw.githubusercontent.com/vantyrit/.github/main/profile/assets/flow.svg" alt="Talk, design, build, ship" width="100%"></a></p>
