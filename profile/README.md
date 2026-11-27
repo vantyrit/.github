@@ -5,8 +5,6 @@
 <p>
 <a href="https://vantyr.sourav.com.bd"><img src="https://img.shields.io/badge/Visit_Website-FFB02E?style=for-the-badge&logo=googlechrome&logoColor=0B0D12" alt="Visit Website" height="40"></a>
 <a href="https://vantyr.sourav.com.bd/start-a-project"><img src="https://img.shields.io/badge/Start_a_project-2EE6C9?style=for-the-badge&logo=rocket&logoColor=0B0D12" alt="Start a project" height="40"></a>
-<a href="mailto:vantyr@sourav.com.bd"><img src="https://img.shields.io/badge/Email_us-161A24?style=for-the-badge&logo=gmail&logoColor=FFB02E" alt="Email us" height="40"></a>
-<a href="https://github.com/souravsahapartho"><img src="https://img.shields.io/badge/Meet_the_founder-161A24?style=for-the-badge&logo=github&logoColor=2EE6C9" alt="Meet the founder" height="40"></a>
 </p>
 
 </div>
@@ -17,12 +15,21 @@ Vantyr is a small software company in Dhaka. We build websites, custom software,
 
 <a href="https://vantyr.sourav.com.bd/services"><img src="https://raw.githubusercontent.com/vantyrit/.github/main/profile/assets/services.svg" alt="Web development, custom software, data and analytics, machine learning" width="100%"></a>
 
+<p align="center">
+<a href="https://vantyr.sourav.com.bd/services/web-development"><img src="https://img.shields.io/badge/Web_Development-12151C?style=for-the-badge&logo=globe&logoColor=FFB02E&labelColor=12151C" alt="Web Development" height="34"></a>
+<a href="https://vantyr.sourav.com.bd/services/custom-software"><img src="https://img.shields.io/badge/Custom_Software-12151C?style=for-the-badge&logo=codeforces&logoColor=FFB02E&labelColor=12151C" alt="Custom Software" height="34"></a>
+<a href="https://vantyr.sourav.com.bd/services/mobile-apps"><img src="https://img.shields.io/badge/Mobile_Apps-12151C?style=for-the-badge&logo=android&logoColor=FFB02E&labelColor=12151C" alt="Mobile Apps" height="34"></a>
+<a href="https://vantyr.sourav.com.bd/services/data-science"><img src="https://img.shields.io/badge/Data_Science-12151C?style=for-the-badge&logo=plotly&logoColor=FFB02E&labelColor=12151C" alt="Data Science" height="34"></a>
+<a href="https://vantyr.sourav.com.bd/services/machine-learning"><img src="https://img.shields.io/badge/Machine_Learning-12151C?style=for-the-badge&logo=tensorflow&logoColor=FFB02E&labelColor=12151C" alt="Machine Learning" height="34"></a>
+<a href="https://vantyr.sourav.com.bd/services/ui-ux-design"><img src="https://img.shields.io/badge/UI/UX_Design-12151C?style=for-the-badge&logo=figma&logoColor=FFB02E&labelColor=12151C" alt="UI/UX Design" height="34"></a>
+</p>
+
 ## Our work
 
 | | |
 |---|---|
 | 🧾 **[TaxPlan BD](https://taxplanbd.vercel.app)** | A Bangladesh income tax planning platform with a calculator, tax-saving guidance and an admin console. It's live. |
-| 🌐 **Vantyr website** | Our own site: a 3D scroll journey on Next.js, a Django API, a price estimator and a built-in admin with two-step sign-in. [Visit it](https://vantyr.sourav.com.bd). |
+| 🌐 **[Vantyr website](https://vantyr.sourav.com.bd)** | Our own site: a 3D scroll journey on Next.js, a Django API, a price estimator and a built-in admin with two-step sign-in. |
 
 ## How we work
 
@@ -40,10 +47,10 @@ Small, shippable steps. You see working software every week, with plain-language
 <a href="https://vercel.com"><img src="https://img.shields.io/badge/Vercel-0B0D12?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"></a>
 </p>
 
-## Say hello
-
-Got a project in mind? Use the [contact form](https://vantyr.sourav.com.bd/start-a-project) or write to **vantyr@sourav.com.bd**. We're based in Dhaka, Bangladesh, and work with clients anywhere.
-
 ---
 
-<sub>Founded by [Sourav Saha](https://github.com/souravsahapartho).</sub>
+<div align="center">
+
+Founded by <a href="https://github.com/souravsahapartho"><b>Sourav Saha</b></a> · Dhaka, Bangladesh · <a href="mailto:vantyr@sourav.com.bd">vantyr@sourav.com.bd</a>
+
+</div>
