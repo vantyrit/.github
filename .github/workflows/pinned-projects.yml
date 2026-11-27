@@ -1,0 +1,49 @@
+name: Pinned projects
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Refresh pinned projects
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python3 - <<'PY'
+          import json, subprocess, html, re
+          q = 'query{organization(login:"vantyrit"){pinnedItems(first:6,types:REPOSITORY){nodes{... on Repository{name url description isPrivate primaryLanguage{name} stargazerCount}}}}}'
+          raw = subprocess.check_output(["gh", "api", "graphql", "-f", "query=" + q])
+          nodes = [n for n in json.loads(raw)["data"]["organization"]["pinnedItems"]["nodes"] if n and not n["isPrivate"]]
+          if nodes:
+              cells = []
+              for n in nodes:
+                  lang = (n.get("primaryLanguage") or {}).get("name") or ""
+                  stars = "★ %d" % n["stargazerCount"] if n["stargazerCount"] else ""
+                  meta = " · ".join(x for x in [lang, stars] if x)
+                  desc = html.escape(n.get("description") or "")
+                  cells.append('<td width="50%%" valign="top"><a href="%s"><b>%s</b></a><br><sub>%s</sub><br><sub>%s</sub></td>' % (n["url"], html.escape(n["name"]), desc, meta))
+              rows = []
+              for i in range(0, len(cells), 2):
+                  pair = cells[i:i + 2]
+                  if len(pair) == 1:
+                      pair.append('<td width="50%"></td>')
+                  rows.append("<tr>" + "".join(pair) + "</tr>")
+              body = '<table align="center">' + "".join(rows) + "</table>"
+          else:
+              body = '<p align="center"><sub>Pinned projects will appear here.</sub></p>'
+          p = "profile/README.md"
+          s = open(p, encoding="utf-8").read()
+          s = re.sub(r"(<!--PINNED:START-->).*?(<!--PINNED:END-->)", lambda m: m.group(1) + "\n" + body + "\n" + m.group(2), s, flags=re.S)
+          open(p, "w", encoding="utf-8").write(s)
+          PY
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/README.md
+          git diff --cached --quiet || (git commit -m "Update pinned projects" && git push)
